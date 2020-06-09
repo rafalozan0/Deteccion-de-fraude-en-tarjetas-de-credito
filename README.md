@@ -3,3 +3,4 @@ Es importante que las compañías de tarjetas de crédito puedan reconocer trans
 # Nota:
 Este modelo fue ejecutado con Azure notebooks, abrir el archivo
 # Detector de anomaliasCC.ipynb
+ 
